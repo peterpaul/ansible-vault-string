@@ -4,6 +4,7 @@
 (package-file "ansible-vault-string.el")
 
 (depends-on "s")
+(depends-on "f")
 
 (development
  (depends-on "ecukes")

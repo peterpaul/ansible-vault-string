@@ -7,7 +7,7 @@
 ;; URL: https://github.com/peterpaul/ansible-vault-string
 ;; Version: 0.0.1
 ;; Keywords: tools
-;; Package-Requires: ((emacs "24.3") (s "1.12.0"))
+;; Package-Requires: ((emacs "24.3") (s "1.12.0") (f "0.20.0"))
 
 ;; This file is not part of GNU Emacs.
 
